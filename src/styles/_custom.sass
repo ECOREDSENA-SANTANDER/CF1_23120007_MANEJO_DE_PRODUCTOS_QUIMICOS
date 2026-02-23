@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 70%
+    right: 40%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 38%
+    right: 5%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 18%
+    right: 80%
 
 @keyframes float1
   0%
@@ -27,4 +32,104 @@
   color: $color-primario
 figcaption
   font-weight: normal
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/interno.png") !important
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/movil.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 14% !important 
+    h1, p
+      color: $white
+
+.banner-principal  
+  @media (min-width: 768px) and (max-width: 1024px)
+    .tarjeta
+      background-image: url('../assets/curso/portada/tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+    h1, p
+      color: $white
+.w-card-icon
+  width: min-content
+  z-index: 1
+.w-card-text
+  position: relative
+  padding-left: 40px
+  padding-right: 40px
+  left: -30px
+  top: 8px
+  width: fit-content
+
+.w-card-text2
+  position: relative
+  padding-left: 40px
+  padding-right: 40px
+  left: -30px
+  top: 8px
+  width: fit-content
+
+.bg1
+  background-color: #DCBFDC
+.bg2
+  background-color: #E2E2E0
+.bg3
+  background-color: #8A2C8C
+  border-top-right-radius: 40px
+  border-bottom-right-radius: 40px
+.bg4
+  background-color: #CDBFDC
+  border-radius: 20px
+.bg5
+  background-color: #ffff
+  border-radius: 10px
+
+.bg1slyder
+  background-image: url('../assets/curso/Tema1/fondot1.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  @media screen and (max-width: 767px)
  
+    background-size: cover 
+.slyder__btn 
+  background-color: #6CAC25
+.fondot1
+  background-image: url('../assets/curso/Tema1/trazado.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.titulo-segundo:after 
+  border-left-color: #2C2E8C
+
+.solidos-badge 
+  background-color: #8A2C8C
+  display: inline-block
+  padding: 8px 80px 8px 45px !important /* más espacio derecha */
+  border-top-right-radius: 20px
+  border-bottom-left-radius: 20px
+  position: relative
+  padding-left: 10px !important
+  padding-right: 40px
+  width: fit-content
+.acordion__accion__btn--a
+  background-color: #6CAC25 !important
+.acordion .tarjeta--azul
+  background-color: #BFC0DC !important
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #CDBFDC !important
