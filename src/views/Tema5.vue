@@ -234,7 +234,7 @@
           p El mantenimiento del ciclo de vida de los EPP es un proceso crítico que asegura la integridad de los trabajadores frente a riesgos químicos. Este ciclo se fundamenta en la prevención y la gestión técnica, estructurándose de la siguiente manera:
           p La operatividad de los EPP depende de una supervisión constante antes, durante y después de cada jornada:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-6.mb-4.col-md-10
         img(src="@/assets/curso/Tema5/img10.png")
       .col-lg-6
@@ -251,7 +251,7 @@
             .col-md-12.mb-4.mb-md-0
               p.text-small es necesario resguardar los EPP en lugares libres de humedad y radiación solar directa, factores que aceleran el deterioro de materiales.
 
-    p Cuando un equipo alcanza el final de su vida útil o sufre una contaminación severa, su tratamiento cambia de un recurso de seguridad a un desecho crítico:
+    p.mb-4 Cuando un equipo alcanza el final de su vida útil o sufre una contaminación severa, su tratamiento cambia de un recurso de seguridad a un desecho crítico:
 
     .tarjeta--container.row.mb-4(data-aos="fade-right")
       .col-md.tarjeta.bg11.p-5.text-white
