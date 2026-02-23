@@ -97,6 +97,29 @@ figcaption
   background-color: #F6F6F6
 .bg8
   background-color: #371138
+.bg9
+  background-color: #EEEEEE
+.bg10
+  background-color: #D2E6BD
+.bg11
+  background-color: #5A2C8C
+.bg12
+  background-color: #BFC0DC
+.bg13
+  background-color: #2C2E8C
+.tarjeta--boton 
+  border-radius: 20px
+  background-color: #D2E6BD
+  cursor: pointer
+   transition: background-color 0.3s ease-in-out
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario:hover 
+  background-color: #BFC0DC 
+.w-10
+  width: 10%
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+  color: #212529
+
+
 .bg1slyder
   background-image: url('../assets/curso/Tema1/fondot1.png')
   background-position: center
@@ -109,6 +132,18 @@ figcaption
   background-color: #6CAC25
 .fondot1
   background-image: url('../assets/curso/Tema1/trazado.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.fondot2
+  background-image: url('../assets/curso/Tema2/fondot2.png')
   background-position: center
   background-size: 100% 100%
   background-repeat: no-repeat
@@ -190,5 +225,28 @@ figcaption
     overflow: auto
     text-overflow: initial
     text-wrap: auto
+
+.bloque-texto-g.color-primario 
+  background-color: #5A2C8C
+  border-radius: 0 300px 300px 0
+.bloque-texto-g__texto 
+  position: relative
+  left: -70px
+  z-index: 2
+  @media screen and (max-width: 992px)
+    margin: 0 auto
+    width: 100%
+    position: relative
+    left: 0px /* micro ajuste visual */
+    margin-top: -13rem
+  @media screen and (max-width: 767px)
+    margin: 0 auto
+    width: 100%
+    position: relative
+    left: 0px /* micro ajuste visual */
+    margin-top: -10rem
+
+
+
 
 

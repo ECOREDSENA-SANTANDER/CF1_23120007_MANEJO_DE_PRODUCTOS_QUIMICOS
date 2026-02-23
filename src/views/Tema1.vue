@@ -313,7 +313,7 @@
               td.text-left H₂SO₄
               td.text-left Ácido (oxácido)
               td.text-left Líquido aceitoso, incoloro a ligeramente amarillento, altamente corrosivo, fuerte deshidratante, reacciona violentamente con agua si se mezcla incorrectamente.
-              td.text-left #[b Usos:] fertilizantes, refinación de petróleo, baterías. <br> #[b Riesgos:] causa quemaduras graves, corrosivo para metales, reacción exotérmica
+              td.text-left #[b Usos:] fertilizantes, refinación de petróleo, baterías. <br> #[b Riesgos:] causa quemaduras graves, corrosivo para metales, reacción exotérmica con agua.
             tr
               td.text-left Hidróxido de sodio
               td.text-left NaOH
@@ -325,7 +325,7 @@
               td.text-left NaCl
               td.text-left Sal
               td.text-left Sólido cristalino blanco, soluble en agua, estable químicamente.
-              td.text-left #[b Usos:] industria alimentaria, producción de cloro y soda cáustica. <br> #[b Riesgos:] baja toxicidad, pero en altas concentraciones puede afectar ecosistemas
+              td.text-left #[b Usos:] industria alimentaria, producción de cloro y soda cáustica. <br> #[b Riesgos:] baja toxicidad, pero en altas concentraciones puede afectar ecosistemas acuáticos.
             tr
               td.text-left Hipoclorito de sodio (lejía)
               td.text-left NaClO
@@ -360,7 +360,7 @@
 
       p La estructura química, dada por la configuración de los grupos funcionales presentes en una sustancia, influye directamente en sus propiedades y en los peligros asociados. En el Sistema Globalmente Armonizado (SGA), los productos se clasifican en tres tipos de peligros derivados de estas propiedades intrínsecas:
 
-      .row.justify-content-center.cursor-pointer.mb-2(data-aos="zoom-in-left")
+      .row.justify-content-center.cursor-pointer.mb-3(data-aos="zoom-in-left")
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
@@ -372,7 +372,7 @@
                 span.icono-circulo.me-2
                   span.flecha
                 | Peligros físicos
-              p.mb-0 relacionados con propiedades físicas o químicas que pueden provocar explosiones, inflamabilidad (gases, líquidos o sólidos) o corrosión de metales.
+              p.mb-0 Relacionados con propiedades físicas o químicas que pueden provocar explosiones, inflamabilidad (gases, líquidos o sólidos) o corrosión de metales.
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt
             .crd_hover_txt--img
@@ -383,7 +383,7 @@
                 span.icono-circulo.me-2
                   span.flecha
                 | Peligros para la salud
-              p.mb-0 asociados a la toxicidad (aguda o crónica), la capacidad de causar lesiones oculares, irritación cutánea, efectos cancerígenos o mutagénicos, entre otros. 
+              p.mb-0 Asociados a la toxicidad (aguda o crónica), la capacidad de causar lesiones oculares, irritación cutánea, efectos cancerígenos o mutagénicos, entre otros. 
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt
             .crd_hover_txt--img
@@ -394,7 +394,7 @@
                 span.icono-circulo.me-2
                   span.flecha
                 | Peligros ambientales
-              p.mb-0 incluyen la toxicidad para organismos acuáticos y los daños a la capa de ozono.
+              p.mb-0 Incluyen la toxicidad para organismos acuáticos y los daños a la capa de ozono.
 
       p Es fundamental diferenciar entre #[b peligro] (capacidad intrínseca de una sustancia para causar daño, como ser corrosiva) y #[b riesgo] (probabilidad de que el daño ocurra en función de la exposición). Una correcta identificación de la estructura química permite implementar medidas de prevención como el etiquetado, el almacenamiento seguro y el uso de protección personal, con el fin de minimizar los riesgos.
 
@@ -439,7 +439,7 @@
             .tarjeta.color-acento-botones--borde.p-4(titulo="Eliminación")
               p Fase final donde se desecha el producto o sus residuos.
 
-      .fondot1(data-aos="fade-right")
+      .fondot2(data-aos="fade-right")
         .row.justify-content-center.align-items-center.mb-3.p-3
           .col-lg-1.col-4.mb-3.col-md-2
             img(src="@/assets/curso/Tema1/peligro.png")
