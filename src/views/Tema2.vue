@@ -135,7 +135,7 @@
           .col-6
             figure
               img(src='@/assets/curso/Tema2/img08.svg', alt='')          
-        h2.text-center Palabras de advertencia
+        h3.text-center Palabras de advertencia
         p expresiones que indican el nivel de severidad del riesgo asociado a un producto químico, como “Peligro” (más severo) o “Advertencia” (menos severo). Estas palabras alertan sobre la magnitud del daño potencial y permiten identificar rápidamente la gravedad del riesgo.
       
       .col-md.tarjeta.bg12.p-5
@@ -143,7 +143,7 @@
           .col-6
             figure
               img(src='@/assets/curso/Tema2/img09.svg', alt='')          
-        h2.text-center Indicaciones de peligro (frases H) 
+        h3.text-center Indicaciones de peligro (frases H) 
         p frases normalizadas que describen la naturaleza del riesgo asociado a un producto químico, especificando el tipo de daño que puede causar a la salud o al ambiente si no se maneja adecuadamente (ejemplo: líquido y vapores muy inflamables).
       
       .col-md.tarjeta.bg13.text-white.p-5
@@ -151,7 +151,7 @@
           .col-6.col-md-3
             figure
               img(src='@/assets/curso/Tema2/img10.svg', alt='')          
-        h2.text-center Consejos de prudencia (frases P) 
+        h3.text-center Consejos de prudencia (frases P) 
         p recomendaciones sobre medidas preventivas, acciones de respuesta en caso de emergencia, almacenamiento y disposición segura, con el fin de reducir o controlar los riesgos derivados de la exposición a un producto químico (ejemplo: mantener alejado de fuentes de calor).
 
     p El conocimiento adecuado del SGA y de los elementos presentes en las etiquetas de los productos químicos es esencial para reconocer los peligros antes de manipular cualquier sustancia. Cada elemento de la etiqueta cumple una función específica y la correcta lectura e interpretación de esta información permite #[b prevenir accidentes y enfermedades laborales], promover una cultura de responsabilidad en el manejo de sustancias químicas y contribuir a la protección de la salud, el ambiente y las instalaciones del entorno.
