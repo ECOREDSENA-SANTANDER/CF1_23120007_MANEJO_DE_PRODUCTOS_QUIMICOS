@@ -245,28 +245,206 @@
 
       p Un grupo funcional se define como una combinación específica de átomos dentro de una molécula que confiere propiedades químicas y físicas particulares a los compuestos que lo contienen. Estas estructuras determinan la reactividad, solubilidad y comportamiento químico del producto, influyendo tanto en sus aplicaciones (para qué sirve) como en su peligrosidad intrínseca y en su impacto potencial en el ambiente y la salud.
 
+      TabsC.color-primario(data-aos="zoom-in-left")
+        .py-3.py-md-4(titulo="Compuestos inorgánicos")
+          .row.justify-content-center
+            .col-lg-4.col-10
+              img.mb-3(src='@/assets/curso/Tema1/img11.png', alt='')
+              p.bg6.p-3 los compuestos inorgánicos se clasifican de acuerdo con sus funciones químicas, es decir, según el tipo de sustancia y su comportamiento químico, independientemente del número de átomos que contengan. Generalmente, su estructura se deriva de la combinación de metales y no metales con elementos como el oxígeno o el hidrógeno, dando lugar a funciones como óxidos, ácidos, bases y sales.
+            .col-lg-6.mb-4.mb-md-0
+              ul.lista-ul--color.bg5.p-3
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Óxidos:] surgen de la combinación del oxígeno con otro elemento de la tabla periódica. Se dividen en óxidos básicos (metal y oxígeno) y óxidos ácidos (no metal y oxígeno).
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Bases (hidróxidos):] se forman por la reacción de un óxido básico con el agua. Se caracterizan por la presencia del grupo funcional OH en su estructura. También se conocen como bases o álcalis y en solución liberan iones. 
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Ácidos:] pueden clasificarse en hidrácidos (hidrógeno y no metal) y oxácidos (óxido ácido y agua). Un ejemplo industrial clave es el ácido sulfúrico, un líquido viscoso, aceitoso y altamente corrosivo.
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Sales:] se forman a partir de la reacción entre un ácido y una base (sal oxisal), o por la combinación de un metal con un no metal (sal haloidea). Un ejemplo común es el cloruro de sodio (NaCl), más conocido como sal de cocina.
 
+        
+        .py-3.py-md-4(titulo="Compuestos orgánicos")
+          .row.justify-content-center
+            .col-lg-4.col-10
+              img.mb-3(src='@/assets/curso/Tema1/img12.png', alt='')
+              p.bg6.p-3 Están formados principalmente por carbono, caracterizados por la presencia de enlaces carbono-carbono y carbono-hidrógeno. La versatilidad del átomo de carbono le permite formar una gran variedad de compuestos con propiedades físicas y químicas diversas.
+            .col-lg-6.mb-4.mb-md-0
+              ul.lista-ul--color.bg5.p-3
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Hidrocarburos:] son compuestos formados únicamente por carbono e hidrógeno. Se clasifican en alcanos (parafinas), alquenos (olefinas), alquinos (acetilenos) y aromáticos. Un ejemplo es el benceno, un hidrocarburo aromático, líquido, volátil e inflamable.
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-2 #[b Funciones oxigenadas:] son compuestos que contienen oxígeno en su estructura molecular y cuya presencia determina propiedades físicas y químicas específicas. 
+                    span
+                    br  
+                    br
+                    | Funciones oxigenadas: son compuestos que contienen oxígeno en su estructura molecular y cuya presencia determina propiedades físicas y químicas específicas. 
+                li.mb-0.d-flex
+                  i.fas.fa-solid.fa-flask
+                  p.mb-3 #[b Funciones nitrogenadas:] son compuestos orgánicos que contienen nitrógeno en su estructura. Entre ellas se encuentran las aminas, derivadas del amoníaco, las amidas que contienen un grupo carbonilo unido a un nitrógeno, los nitrilos, caracterizados por el grupo ciano (–C≡N) y los nitrocompuestos que poseen el grupo nitro (–NO₂), responsable de propiedades químicas y reactividad particulares. Estas funciones influyen en la polaridad, basicidad y comportamiento químico de los compuestos que las contienen.
+    
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-md-11.col-lg-12.col-12
+          .d-flex.align-items-center.mt-4
+            img.w-card-icon(src="@/assets/curso/Tema1/ico.svg")
+            h3.bg4.py-2.w-card-text Características y usos de los productos químicos
 
+      p Los productos químicos se utilizan para satisfacer las necesidades de múltiples actividades humanas, que abarcan desde la producción de bienes de consumo hasta los servicios de saneamiento, tratamiento de aguas, limpieza y desinfección. En la siguiente tabla se presentan algunos de los productos químicos más comunes, características y usos. 
+      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+        h5 Tabla 1.
+        span Productos químicos más comunes
+      .tabla-a
+        table
+          thead
+            tr.text-white
+              th.bg8 Nombre
+              th.bg8 Fórmula química
+              th.bg8 Función química o grupo funcional
+              th.w-25.bg8 Características
+              th.w-25.bg8 Usos y riesgos
+          tbody
+            tr.bg7
+              td.text-left Ácido sulfúrico
+              td.text-left H₂SO₄
+              td.text-left Ácido (oxácido)
+              td.text-left Líquido aceitoso, incoloro a ligeramente amarillento, altamente corrosivo, fuerte deshidratante, reacciona violentamente con agua si se mezcla incorrectamente.
+              td.text-left #[b Usos:] fertilizantes, refinación de petróleo, baterías. <br> #[b Riesgos:] causa quemaduras graves, corrosivo para metales, reacción exotérmica
+            tr
+              td.text-left Hidróxido de sodio
+              td.text-left NaOH
+              td.text-left Base (hidróxido)
+              td.text-left Sólido blanco higroscópico, muy soluble en agua, genera calor al disolverse, altamente alcalino.
+              td.text-left #[b Usos:] fabricación de jabones, papel, limpieza industrial. <br> #[b Riesgos:] corrosivo, provoca quemaduras químicas severas.
+            tr.bg7
+              td.text-left Cloruro de sodio o sal de cocina
+              td.text-left NaCl
+              td.text-left Sal
+              td.text-left Sólido cristalino blanco, soluble en agua, estable químicamente.
+              td.text-left #[b Usos:] industria alimentaria, producción de cloro y soda cáustica. <br> #[b Riesgos:] baja toxicidad, pero en altas concentraciones puede afectar ecosistemas
+            tr
+              td.text-left Hipoclorito de sodio (lejía)
+              td.text-left NaClO
+              td.text-left Sal derivada del ácido hipocloroso
+              td.text-left Solución acuosa de color amarillo verdoso pálido, olor fuerte característico a cloro. Es un agente oxidante fuerte e inestable frente a la luz, el calor y el contacto con ácidos.
+              td.text-left #[b Usos:] desinfección de superficies, tratamiento de agua potable y residual, blanqueador textil, saneamiento hospitalario. <br> #[b Riesgos:] corrosivo para piel y ojos, puede liberar gas cloro tóxico al mezclarse con ácidos o amoníaco, irritante respiratorio, peligroso para organismos acuáticos.
+            tr.bg7
+              td.text-left Hexano
+              td.text-left C₆H₁₄
+              td.text-left Hidrocarburo alifático (alcano)
+              td.text-left Líquido incoloro, volátil, inflamable, insoluble en agua.
+              td.text-left #[b Usos:] solvente industrial, extracción de aceites vegetales. <br> #[b Riesgos:] altamente inflamable, efectos neurotóxicos por exposición prolongada.
+            tr.text-left
+              td.text-left Benceno
+              td.text-left C₆H₆
+              td.text-left Hidrocarburo aromático
+              td.text-left Líquido incoloro, volátil, inflamable, olor dulce característico.
+              td.text-left #[b Usos:] materia prima en plásticos, resinas y detergentes. <br> #[b Riesgos:] carcinógeno reconocido, afecta médula ósea.
 
+            tr.text-left.bg7
+              td.text-left Etanol
+              td.text-left C₂H₅OH
+              td.text-left Alcohol
+              td.text-left Líquido incoloro, volátil, miscible con agua, inflamable.
+              td.text-left #[b Usos:] desinfectantes, solvente, bebidas alcohólicas, biocombustible. <br> #[b Riesgos:]  inflamable, efectos depresores del sistema nervioso central.
+      
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-md-11.col-lg-12.col-12
+          .d-flex.align-items-center.mt-4
+            img.w-card-icon(src="@/assets/curso/Tema1/ico.svg")
+            h3.bg4.py-2.w-card-text Estructura y riesgo
 
+      p La estructura química, dada por la configuración de los grupos funcionales presentes en una sustancia, influye directamente en sus propiedades y en los peligros asociados. En el Sistema Globalmente Armonizado (SGA), los productos se clasifican en tres tipos de peligros derivados de estas propiedades intrínsecas:
 
+      .row.justify-content-center.cursor-pointer.mb-2(data-aos="zoom-in-left")
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt(@mouseover="mostrarIndicador = false")
+            .indicador--hover(v-if="mostrarIndicador")
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/1.png", alt="")
+            .crd_hover_txt--body
+              h4.mb-3.d-flex.align-items-center
+                span.icono-circulo.me-2
+                  span.flecha
+                | Peligros físicos
+              p.mb-0 relacionados con propiedades físicas o químicas que pueden provocar explosiones, inflamabilidad (gases, líquidos o sólidos) o corrosión de metales.
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/2.png", alt="")
+            .crd_hover_txt--body
+              h4.mb-3.d-flex.align-items-center
+                span.icono-circulo.me-2
+                  span.flecha
+                | Peligros para la salud
+              p.mb-0 asociados a la toxicidad (aguda o crónica), la capacidad de causar lesiones oculares, irritación cutánea, efectos cancerígenos o mutagénicos, entre otros. 
+        .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .crd_hover_txt
+            .crd_hover_txt--img
+              figure
+                img(src="@/assets/curso/Tema1/3.png", alt="")
+            .crd_hover_txt--body
+              h4.mb-3.d-flex.align-items-center
+                span.icono-circulo.me-2
+                  span.flecha
+                | Peligros ambientales
+              p.mb-0 incluyen la toxicidad para organismos acuáticos y los daños a la capa de ozono.
 
+      p Es fundamental diferenciar entre #[b peligro] (capacidad intrínseca de una sustancia para causar daño, como ser corrosiva) y #[b riesgo] (probabilidad de que el daño ocurra en función de la exposición). Una correcta identificación de la estructura química permite implementar medidas de prevención como el etiquetado, el almacenamiento seguro y el uso de protección personal, con el fin de minimizar los riesgos.
 
+      separador
+      #t_1_3.titulo-segundo.mb-5(data-aos="zoom-in-left")
+        h2 1.3. Ciclo de vida de los productos químicos
 
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
+        .col-lg-5.mb-3.col-11.col-md-8
+          img(src='@/assets/curso/Tema1/img14.png', alt='')
+        .col-lg-7
+          p El ciclo de vida de los productos químicos comprende desde la identificación de necesidades, investigación y diseño, hasta su fabricación mediante materias primas naturales o recicladas. Posteriormente, la gestión abarca el almacenamiento, transporte y distribución, etapas que exigen un cumplimiento riguroso de la normativa de seguridad vigente para prevenir incidentes que afecten la salud humana, las instalaciones o el entorno natural.
+          p El proceso concluye con la gestión integral de residuos y la disposición final bajo criterios de sostenibilidad y control de riesgos. En cada fase, resulta indispensable implementar el Sistema Globalmente Armonizado (SGA) para la identificación y comunicación de peligros, garantizando que trabajadores y otros actores cuenten con información clara sobre los riesgos asociados a la manipulación de estas sustancias.
 
+      .fondot1_1(data-aos="zoom-in-left")
+        .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+          .col-lg-6.col-11.col-md-7
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 1.
+              span Ciclo de vida de un producto químico
+            img(src='@/assets/curso/Tema1/fig1.svg', alt='Diagrama circular que muestra las etapas del producto químico: creación, diseño, desarrollo, fabricación, almacenamiento, transporte, venta, uso y eliminación, dispuestas de forma secuencial y continua.')
 
+      h5.mb-4 Las fases del ciclo de vida identificadas son las siguientes:
 
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
+        .col-lg-3.col-6.mb-4.col-md-4
+          img(src='@/assets/curso/Tema1/img15.png', alt='')
+        .col-lg-9
+          TabsA.color-acento-botones
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Creación, diseño y desarrollo")
+              p son las etapas iniciales donde se concibe el producto.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Fabricación")
+              p en esta etapa se produce la sustancia química utilizando diversas materias primas, las cuales pueden ser materiales naturales o sustancias recicladas provenientes de otros procesos.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento")
+              p una vez fabricado, el producto requiere ser guardado bajo condiciones seguras antes de su distribución.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Transporte")
+              p movilización del producto hacia los puntos de distribución o consumo.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Venta")
+              p Comercialización del producto químico.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Uso")
+              p la etapa en la que el producto cumple la función para la cual fue creado (ejemplo: limpieza, fertilización, procesos industriales).
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Eliminación")
+              p Fase final donde se desecha el producto o sus residuos.
 
-
-
-
-
-
-
-
-
-
-
+      .fondot1(data-aos="fade-right")
+        .row.justify-content-center.align-items-center.mb-3.p-3
+          .col-lg-1.col-4.mb-3.col-md-2
+            img(src="@/assets/curso/Tema1/peligro.png")
+          .col-lg-10
+            p Es importante destacar que, dependiendo de la etapa en la que se encuentre el producto, se deben aplicar diferentes mecanismos de seguridad (como el etiquetado o las fichas de datos de seguridad) para informar sobre las amenazas y garantizar un manejo adecuado.
 
 
 
@@ -384,4 +562,28 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  &:hover
+    .crd_hover_txt--body
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #D2E6BD
+
+  @media (min-width:1200px) and (max-width:1400px)
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+</style>
