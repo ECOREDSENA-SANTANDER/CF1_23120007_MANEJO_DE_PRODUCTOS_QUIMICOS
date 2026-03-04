@@ -66,7 +66,7 @@
               img(src='@/assets/curso/Tema5/img02.png', alt='')
         .row.justify-content-center.align-items-center(titulo="Protección visual  y facial ")
           .col-md-12.mb-4.mb-md-0.col-lg-6
-            p La protección ocular con barreras físicas como gafas de seguridad, visores o máscaras full face, se emplea para evitar el contacto de sustancias químicas con los ojos y la cara, previniendo lesiones por salpicaduras, vapores o partículas. Generalmente se recomiendan las máscaras en policarbonato por su resistencia y durabilidad. La clase de protector facial se selecciona de acuerdo al tipo de sustancia química a la que se exponga el individuo, el período de exposición y el ritmo de trabajo. Los protectores oculares y faciales deben ser cómodos, ajustándose a la nariz y la cara, ofreciendo un sellado adecuado y no deben interferir con otros elementos de protección, ni con los movimientos del usuario, además, deben mantenerse limpios y en buen estado para asegurar una visibilidad adecuada y una protección efectiva.
+            p La protección ocular con barreras físicas como gafas de seguridad, visores o máscaras #[em full face], se emplea para evitar el contacto de sustancias químicas con los ojos y la cara, previniendo lesiones por salpicaduras, vapores o partículas. Generalmente se recomiendan las máscaras en policarbonato por su resistencia y durabilidad. La clase de protector facial se selecciona de acuerdo al tipo de sustancia química a la que se exponga el individuo, el período de exposición y el ritmo de trabajo. Los protectores oculares y faciales deben ser cómodos, ajustándose a la nariz y la cara, ofreciendo un sellado adecuado y no deben interferir con otros elementos de protección, ni con los movimientos del usuario, además, deben mantenerse limpios y en buen estado para asegurar una visibilidad adecuada y una protección efectiva.
           .col-md-8.col-lg-5
             figure
               img(src='@/assets/curso/Tema5/img03.png', alt='') 
@@ -77,7 +77,7 @@
           .col-md-8.col-lg-5.mb-3
             figure
               img(src='@/assets/curso/Tema5/img04.png', alt='') 
-          .col-md-12
+          .col-md-11
             p Los guantes deben tener la talla adecuada para su uso y estar en perfecto estado; el uso de guantes deteriorados o inadecuados puede incrementar el riesgo de exposición. Deben utilizarse debajo del traje protector para evitar que los escurrimientos se acumulen y no se debe tocar ninguna parte del cuerpo, ni ajustar otros elementos de protección con los guantes contaminados. 
         .row.justify-content-center(titulo="Trajes de protección")
           .col-md-12.mb-4.mb-md-0.col-lg-6
@@ -114,9 +114,9 @@
       table
         thead
           tr.text-white
-            th.bg8.w-25 Índice a protección (Código)
-            th.bg8 EPP Requerido
-            th.bg8 Escenario de riesgo típtico
+            th.bg8.w-25 Índice de protección (código)
+            th.bg8 EPP requerido
+            th.bg8 Escenario de riesgo típico
         tbody
           tr.bg7
             td.text-left A
@@ -212,7 +212,7 @@
           tr
             td.text-left Nivel D
             td.text-left
-              b Nula/Básica. 
+              b Nula / Básica. 
               | No requiere respirador.
             td.text-left
               b Mínima. 
@@ -241,15 +241,15 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Verificación inicial")
             .col-md-12.mb-4.mb-md-0
-              p.text-small se debe realizar un examen visual para detectar perforaciones, cristalización de polímeros o pérdida de elasticidad que invaliden la protección.
+              p.text-small Se debe realizar un examen visual para detectar perforaciones, cristalización de polímeros o pérdida de elasticidad que invaliden la protección.
 
           .row(numero="2" titulo="Limpieza técnica")
             .col-md-12.mb-4.mb-md-0
-              p.text-small la descontaminación debe ejecutarse según las fichas técnicas del fabricante para evitar que los residuos químicos degraden los materiales del EPP.
+              p.text-small La descontaminación debe ejecutarse según las fichas técnicas del fabricante para evitar que los residuos químicos degraden los materiales del EPP.
 
           .row(numero="3" titulo="Almacenamiento controlado")
             .col-md-12.mb-4.mb-md-0
-              p.text-small es necesario resguardar los EPP en lugares libres de humedad y radiación solar directa, factores que aceleran el deterioro de materiales.
+              p.text-small Es necesario resguardar los EPP en lugares libres de humedad y radiación solar directa, factores que aceleran el deterioro de materiales.
 
     p.mb-4 Cuando un equipo alcanza el final de su vida útil o sufre una contaminación severa, su tratamiento cambia de un recurso de seguridad a un desecho crítico:
 
@@ -260,7 +260,7 @@
             figure
               img(src='@/assets/curso/Tema5/1.svg', alt='')          
         h3.text-center Retiro de servicio
-        p cualquier EPP que haya superado su fecha de vencimiento o haya perdido su capacidad de barrera debe ser marcado y segregado inmediatamente para evitar su uso accidental.
+        p Cualquier EPP que haya superado su fecha de vencimiento o haya perdido su capacidad de barrera debe ser marcado y segregado inmediatamente para evitar su uso accidental.
       
       .col-md.tarjeta.bg12.p-5
         .row.justify-content-center.mb-4
@@ -268,7 +268,7 @@
             figure
               img(src='@/assets/curso/Tema5/2.svg', alt='')          
         h3.text-center Gestión de residuos peligrosos
-        p debido a la posible presencia de sustancias nocivas, la eliminación se rige bajo los lineamientos de materiales peligrosos (#[em Hazardous Materials] - HAZMAT). Esto implica que no pueden ser desechados como basura convencional, sino que deben entregarse a gestores autorizados para su incineración o disposición en celdas de seguridad.
+        p Debido a la posible presencia de sustancias nocivas, la eliminación se rige bajo los lineamientos de materiales peligrosos (#[em Hazardous Materials] - HAZMAT). Esto implica que no pueden ser desechados como basura convencional, sino que deben entregarse a gestores autorizados para su incineración o disposición en celdas de seguridad.
       
       .col-md.tarjeta.bg13.text-white.p-5
         .row.justify-content-center.mb-4
@@ -276,7 +276,7 @@
             figure
               img(src='@/assets/curso/Tema5/3.svg', alt='')          
         h3.text-center Responsabilidad ambiental
-        p el manejo adecuado garantiza que los contaminantes adheridos a los guantes, respiradores o trajes no se filtren al subsuelo o fuentes hídricas, cumpliendo con la normativa de SST y de gestión ambiental vigente.
+        p El manejo adecuado garantiza que los contaminantes adheridos a los guantes, respiradores o trajes no se filtren al subsuelo o fuentes hídricas, cumpliendo con la normativa de SST y de gestión ambiental vigente.
 
 
 

@@ -141,13 +141,13 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4(data-aos="fade-right")
         .row.justify-content-center.ali(titulo="Ley 1523 de 2012")
           .col-md-12.mb-4.mb-md-0
-            p ley por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD). Define el riesgo como el daño potencial que puede causarse por amenazas de origen natural o antrópico no intencional sobre la población, bienes y el ambiente. 
+            p Ley por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD). Define el riesgo como el daño potencial que puede causarse por amenazas de origen natural o antrópico no intencional sobre la población, bienes y el ambiente. 
         .row.justify-content-center(titulo="Ley 55 de 1993")(data-aos="fade-right")
           .col-md-12.mb-4.mb-md-0
             p Por medio de la cual se aprueba el “Convenio No. 170 y la Recomendación número 177” sobre la seguridad en la utilización de productos químicos en el trabajo, adoptando convenios internacionales de la Organización Internacional del Trabajo (OIT). Obliga a que el transporte, almacenamiento y manipulación de sustancias se realice con pleno conocimiento de sus riesgos y precauciones.
         .row.justify-content-center(titulo="Decreto 1828 de 2021")(data-aos="fade-right")
           .col-md-12.mb-4.mb-md-0
-            p por el cual se adopta el Plan Nacional de Contingencia (PNC) frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas. Su objetivo es proteger el medio ambiente y la salud de los trabajadores mediante la estructuración de planes de emergencia que se enlacen de manera cooperativa con entidades gubernamentales y empresariales.
+            p Por el cual se adopta el Plan Nacional de Contingencia (PNC) frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas. Su objetivo es proteger el medio ambiente y la salud de los trabajadores mediante la estructuración de planes de emergencia que se enlacen de manera cooperativa con entidades gubernamentales y empresariales.
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-solid.fa-flask
@@ -155,7 +155,7 @@
         
         .row.justify-content-center(titulo="Plan de contingencia para derrames y sustancias nocivas")(data-aos="fade-right")
           .col-md-12.mb-4.mb-md-0
-            p el programa de riesgo químico debe incluir planes de contingencia para emergencias químicas como un requisito fundamental. A continuación se describe el plan de contingencia: 
+            p El programa de riesgo químico debe incluir planes de contingencia para emergencias químicas como un requisito fundamental. A continuación se describe el plan de contingencia: 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-solid.fa-flask

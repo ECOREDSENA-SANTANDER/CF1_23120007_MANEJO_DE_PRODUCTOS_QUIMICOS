@@ -27,11 +27,11 @@
       .col-lg-12
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones--borde.p-4(titulo="Peligros físicos")
-            p relacionados con las propiedades físicas y químicas de las sustancias, como inflamabilidad, explosividad o reactividad, que pueden generar incendios, explosiones o reacciones peligrosas durante su manipulación, almacenamiento o transporte.
+            p Relacionados con las propiedades físicas y químicas de las sustancias, como inflamabilidad, explosividad o reactividad, que pueden generar incendios, explosiones o reacciones peligrosas durante su manipulación, almacenamiento o transporte.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Peligros para la salud")
-            p asociados a efectos agudos o crónicos en las personas, como toxicidad, irritación, sensibilización o daño a órganos, derivados de la exposición a productos químicos por inhalación, contacto con la piel o ingestión.
+            p Asociados a efectos agudos o crónicos en las personas, como toxicidad, irritación, sensibilización o daño a órganos, derivados de la exposición a productos químicos por inhalación, contacto con la piel o ingestión.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Peligros para el medio ambiente")
-            p vinculados a efectos negativos sobre los ecosistemas acuáticos o terrestres, ocasionando contaminación del agua, del suelo o afectaciones a la flora y fauna como consecuencia de la liberación de sustancias químicas peligrosas.
+            p Vinculados a efectos negativos sobre los ecosistemas acuáticos o terrestres, ocasionando contaminación del agua, del suelo o afectaciones a la flora y fauna como consecuencia de la liberación de sustancias químicas peligrosas.
 
     separador
     #t_2_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
@@ -54,7 +54,7 @@
               figure
                 img(src='@/assets/curso/Tema2/1.svg', alt='Texto que describa la imagen')
           h4.text-center Identificación del producto
-          p.text-small.mb-0.text-center incluye el nombre del producto químico (según IUPAC, ISO, CAS o nombre técnico) y debe coincidir con lo reportado en la hoja de datos de seguridad. Permite identificación clara y evita confusiones con otras sustancias. 
+          p.text-small.mb-0.text-left Incluye el nombre del producto químico (según IUPAC, ISO, CAS o nombre técnico) y debe coincidir con lo reportado en la hoja de datos de seguridad. Permite identificación clara y evita confusiones con otras sustancias. 
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4.h-100
@@ -63,7 +63,7 @@
               figure
                 img(src='@/assets/curso/Tema2/2.svg', alt='Texto que describa la imagen')
           h4.text-center Identificación del fabricante o proveedor
-          p.text-small.mb-0.text-center en la etiqueta deben figurar los datos del fabricante, importador o responsable del producto para garantizar la trazabilidad y el contacto en caso de emergencia o información adicional. 
+          p.text-small.mb-0.text-left En la etiqueta deben figurar los datos del fabricante, importador o responsable del producto para garantizar la trazabilidad y el contacto en caso de emergencia o información adicional. 
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4.h-100
@@ -72,7 +72,7 @@
               figure
                 img(src='@/assets/curso/Tema2/3.svg', alt='Texto que describa la imagen')
           h4.text-center Pictogramas
-          p.text-small.mb-0.text-center símbolos gráficos en forma de rombo rojo que representan visualmente el tipo de peligro que presenta un producto químico (clasificación de peligrosidad), permitiendo una identificación rápida y comprensible del riesgo. Es posible encontrar productos con más de un pictograma en su etiqueta. Deben presentarse en los envases o embalajes exteriores. 
+          p.text-small.mb-0.text-left Símbolos gráficos en forma de rombo rojo que representan visualmente el tipo de peligro que presenta un producto químico (clasificación de peligrosidad), permitiendo una identificación rápida y comprensible del riesgo. Es posible encontrar productos con más de un pictograma en su etiqueta. Deben presentarse en los envases o embalajes exteriores. 
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 2.
@@ -136,7 +136,7 @@
             figure
               img(src='@/assets/curso/Tema2/img08.svg', alt='')          
         h3.text-center Palabras de advertencia
-        p expresiones que indican el nivel de severidad del riesgo asociado a un producto químico, como “Peligro” (más severo) o “Advertencia” (menos severo). Estas palabras alertan sobre la magnitud del daño potencial y permiten identificar rápidamente la gravedad del riesgo.
+        p Expresiones que indican el nivel de severidad del riesgo asociado a un producto químico, como “Peligro” (más severo) o “Advertencia” (menos severo). Estas palabras alertan sobre la magnitud del daño potencial y permiten identificar rápidamente la gravedad del riesgo.
       
       .col-md.tarjeta.bg12.p-5
         .row.justify-content-center.mb-4
@@ -144,15 +144,15 @@
             figure
               img(src='@/assets/curso/Tema2/img09.svg', alt='')          
         h3.text-center Indicaciones de peligro (frases H) 
-        p frases normalizadas que describen la naturaleza del riesgo asociado a un producto químico, especificando el tipo de daño que puede causar a la salud o al ambiente si no se maneja adecuadamente (ejemplo: líquido y vapores muy inflamables).
+        p Frases normalizadas que describen la naturaleza del riesgo asociado a un producto químico, especificando el tipo de daño que puede causar a la salud o al ambiente si no se maneja adecuadamente (ejemplo: líquido y vapores muy inflamables).
       
       .col-md.tarjeta.bg13.text-white.p-5
         .row.justify-content-center.mb-4
-          .col-6.col-md-3
+          .col-6.col-md-3.col-lg-6
             figure
               img(src='@/assets/curso/Tema2/img10.svg', alt='')          
         h3.text-center Consejos de prudencia (frases P) 
-        p recomendaciones sobre medidas preventivas, acciones de respuesta en caso de emergencia, almacenamiento y disposición segura, con el fin de reducir o controlar los riesgos derivados de la exposición a un producto químico (ejemplo: mantener alejado de fuentes de calor).
+        p Recomendaciones sobre medidas preventivas, acciones de respuesta en caso de emergencia, almacenamiento y disposición segura, con el fin de reducir o controlar los riesgos derivados de la exposición a un producto químico (ejemplo: mantener alejado de fuentes de calor).
 
     p El conocimiento adecuado del SGA y de los elementos presentes en las etiquetas de los productos químicos es esencial para reconocer los peligros antes de manipular cualquier sustancia. Cada elemento de la etiqueta cumple una función específica y la correcta lectura e interpretación de esta información permite #[b prevenir accidentes y enfermedades laborales], promover una cultura de responsabilidad en el manejo de sustancias químicas y contribuir a la protección de la salud, el ambiente y las instalaciones del entorno.
 
@@ -162,8 +162,8 @@
       .col-lg-12
         .tarjeta.clr--pink.p-4.rounded-0.h-100.bg11
           .tarjeta.bg-white.p-4
-            TarjetaAudio.color-acento-botones.mb-4.p-5(
-            texto="Podcast: Sistema Globalmente Armonizado (SGA) y la importancia del etiquetado químico"
+            TarjetaAudio.color-acento-botones.mb-4.p-5.no-cursiva(
+            texto="Pódcast: Sistema Globalmente Armonizado (SGA) y la importancia del etiquetado químico"
             :audio="require('@/assets/curso/Tema2/prueba.mp3')"
         )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

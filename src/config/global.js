@@ -173,11 +173,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -199,7 +194,6 @@ export default {
       },
     ],
   },
-  complementario: [],
   glosario: [
     {
       termino: 'Ácido',
@@ -229,7 +223,7 @@ export default {
     {
       termino: 'Elementos de Protección Personal (EPP)',
       significado:
-        'Equipos diseñados para reducir la exposición a riesgos cuando las medidas técnicas y administrativas no eliminan el riesgo.',
+        'Equipos diseñados para reducir la exposición a riesgos cuando las medidas técnicas y administrativas, no eliminan el riesgo.',
     },
     {
       termino: 'Hoja de Datos de Seguridad (HDS)',
@@ -285,12 +279,12 @@ export default {
   referencias: [
     {
       referencia:
-        'ARL SURA. (2015). Elementos de protección personal para riesgo químico . Centro de Información de Sustancias Químicas, Emergencias y Medio Ambiente.',
+        'ARL SURA. (2015). Elementos de protección personal para riesgo químico. Centro de Información de Sustancias Químicas, Emergencias y Medio Ambiente.',
       link: '',
     },
     {
       referencia:
-        'ARP SURA. (2011). Gestión integral aplicada al riesgo químico . Seguros de Riesgos Profesionales Suramericana S.A.',
+        'ARL SURA. (2011). Gestión integral aplicada al riesgo químico. Seguros de Riesgos Profesionales Suramericana S.A.',
       link: '',
     },
     {
@@ -385,7 +379,7 @@ export default {
         },
         {
           nombre: 'Nathaly Moreno Betancourt',
-          cargo: 'instructor',
+          cargo: 'Instructor',
           centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
         },
         {
@@ -398,14 +392,19 @@ export default {
           cargo: 'Subdirector de Centro',
           centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
         },
+        {
+          nombre: 'Angélica Varón Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Marcos Yamid Rubiano Avellaneda',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

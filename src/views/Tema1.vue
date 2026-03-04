@@ -82,7 +82,7 @@
         .col-lg-1.col-4.col-md-3
           img.mb-4(src="@/assets/curso/Tema1/img08.svg")
         .col-lg-11
-          p son aquellos en los que el producto presenta resistencia al movimiento, conservando forma y volumen definidos; sin embargo, es importante tener en cuenta que algunos productos sólidos se encuentran en forma de polvos, los cuales pueden dispersarse en el aire u otros gases para formar aerosoles, facilitando su movilidad y favoreciendo la inhalación por parte del personal. Son ejemplos de sólidos el azúcar, la sal, la urea, el carbonato de sodio, el hidróxido de potasio, entre otros.
+          p Son aquellos en los que el producto presenta resistencia al movimiento, conservando forma y volumen definidos; sin embargo, es importante tener en cuenta que algunos productos sólidos se encuentran en forma de polvos, los cuales pueden dispersarse en el aire u otros gases para formar aerosoles, facilitando su movilidad y favoreciendo la inhalación por parte del personal. Son ejemplos de sólidos el azúcar, la sal, la urea, el carbonato de sodio, el hidróxido de potasio, entre otros.
       
       .row.justify-content-center.mb-3(data-aos="zoom-in-left")
         .col-md-11.col-lg-12.col-12
@@ -92,7 +92,7 @@
         .col-lg-1.col-4.col-md-3
           img.mb-4(src="@/assets/curso/Tema1/img09.svg")
         .col-lg-11
-          p poseen una baja dispersión de las partículas. Las moléculas que constituyen los líquidos obedecen aisladamente a la gravedad y se adaptan al recipiente que las contienen; algunas sustancias sólidas o líquidas pueden ser mezcladas con otros componentes líquidos formando soluciones o dispersiones. Son ejemplos de líquidos la acetona, el etanol, el agua, el ácido sulfúrico, el aceite de cocina, entre otros. 
+          p Poseen una baja dispersión de las partículas. Las moléculas que constituyen los líquidos obedecen aisladamente a la gravedad y se adaptan al recipiente que las contienen; algunas sustancias sólidas o líquidas pueden ser mezcladas con otros componentes líquidos formando soluciones o dispersiones. Son ejemplos de líquidos la acetona, el etanol, el agua, el ácido sulfúrico, el aceite de cocina, entre otros. 
       
       .row.justify-content-center.mb-3(data-aos="zoom-in-left")
         .col-md-11.col-lg-12.col-12
@@ -102,7 +102,7 @@
         .col-lg-1.col-4.col-md-3
           img.mb-4(src="@/assets/curso/Tema1/img10.svg")
         .col-lg-11
-          p son dispersiones (mezclas) de partículas sólidas o líquidas en un medio gaseoso; en muchos casos, el aire. Se clasifican en diferentes tipos según el origen y la naturaleza de las partículas en polvos, humos y nieblas.
+          p Son dispersiones (mezclas) de partículas sólidas o líquidas en un medio gaseoso; en muchos casos, el aire. Se clasifican en diferentes tipos según el origen y la naturaleza de las partículas en polvos, humos y nieblas.
 
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
         .row.justify-content-center.ali(titulo="Polvos")
@@ -250,7 +250,7 @@
           .row.justify-content-center
             .col-lg-4.col-10
               img.mb-3(src='@/assets/curso/Tema1/img11.png', alt='')
-              p.bg6.p-3 los compuestos inorgánicos se clasifican de acuerdo con sus funciones químicas, es decir, según el tipo de sustancia y su comportamiento químico, independientemente del número de átomos que contengan. Generalmente, su estructura se deriva de la combinación de metales y no metales con elementos como el oxígeno o el hidrógeno, dando lugar a funciones como óxidos, ácidos, bases y sales.
+              p.bg6.p-3 Los compuestos inorgánicos se clasifican de acuerdo con sus funciones químicas, es decir, según el tipo de sustancia y su comportamiento químico, independientemente del número de átomos que contengan. Generalmente, su estructura se deriva de la combinación de metales y no metales con elementos como el oxígeno o el hidrógeno, dando lugar a funciones como óxidos, ácidos, bases y sales.
             .col-lg-6.mb-4.mb-md-0
               ul.lista-ul--color.bg5.p-3
                 li.mb-0.d-flex
@@ -283,10 +283,10 @@
                     span
                     br  
                     br
-                    | Funciones oxigenadas: son compuestos que contienen oxígeno en su estructura molecular y cuya presencia determina propiedades físicas y químicas específicas. 
+                    | Dentro de este grupo se encuentran los alcoholes, caracterizados por el grupo hidroxilo (–OH); los éteres, que presentan un átomo de oxígeno unido a dos radicales orgánicos (R y R’); y los aldehídos y cetonas, que contienen el grupo carbonilo (C=O). También hacen parte los ácidos carboxílicos, que poseen el grupo carboxilo (–COOH), y los ésteres, derivados de la reacción entre un ácido carboxílico y un alcohol. Estas funciones influyen en la reactividad, polaridad y aplicaciones industriales de los compuestos que las contienen.
                 li.mb-0.d-flex
                   i.fas.fa-solid.fa-flask
-                  p.mb-3 #[b Funciones nitrogenadas:] son compuestos orgánicos que contienen nitrógeno en su estructura. Entre ellas se encuentran las aminas, derivadas del amoníaco, las amidas que contienen un grupo carbonilo unido a un nitrógeno, los nitrilos, caracterizados por el grupo ciano (–C≡N) y los nitrocompuestos que poseen el grupo nitro (–NO₂), responsable de propiedades químicas y reactividad particulares. Estas funciones influyen en la polaridad, basicidad y comportamiento químico de los compuestos que las contienen.
+                  p.mb-3 #[b Funciones nitrogenadas:] son compuestos orgánicos que contienen nitrógeno en su estructura. Entre ellas se encuentran las aminas, derivadas del amoníaco, las amidas, que contienen un grupo carbonilo unido a un nitrógeno, los nitrilos, caracterizados por el grupo ciano (–C≡N) y los nitrocompuestos que poseen el grupo nitro (–NO₂), responsable de propiedades químicas y reactividad particulares. Estas funciones influyen en la polaridad, basicidad y comportamiento químico de los compuestos que las contienen.
     
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-md-11.col-lg-12.col-12
@@ -302,11 +302,11 @@
         table
           thead
             tr.text-white
-              th.bg8 Nombre
-              th.bg8 Fórmula química
-              th.bg8 Función química o grupo funcional
-              th.w-25.bg8 Características
-              th.w-25.bg8 Usos y riesgos
+              th.bg8.text-left Nombre
+              th.bg8.text-left Fórmula química
+              th.bg8.text-left Función química o grupo funcional
+              th.w-25.bg8.text-left Características
+              th.w-25.bg8.text-left Usos y riesgos
           tbody
             tr.bg7
               td.text-left Ácido sulfúrico
@@ -425,17 +425,17 @@
         .col-lg-9
           TabsA.color-acento-botones
             .tarjeta.color-acento-botones--borde.p-4(titulo="Creación, diseño y desarrollo")
-              p son las etapas iniciales donde se concibe el producto.
+              p Salon las etapas iniciales donde se concibe el producto.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Fabricación")
-              p en esta etapa se produce la sustancia química utilizando diversas materias primas, las cuales pueden ser materiales naturales o sustancias recicladas provenientes de otros procesos.
+              p En esta etapa se produce la sustancia química utilizando diversas materias primas, las cuales pueden ser materiales naturales o sustancias recicladas provenientes de otros procesos.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento")
-              p una vez fabricado, el producto requiere ser guardado bajo condiciones seguras antes de su distribución.
+              p Una vez fabricado, el producto requiere ser guardado bajo condiciones seguras antes de su distribución.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Transporte")
-              p movilización del producto hacia los puntos de distribución o consumo.
+              p Movilización del producto hacia los puntos de distribución o consumo.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Venta")
               p Comercialización del producto químico.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Uso")
-              p la etapa en la que el producto cumple la función para la cual fue creado (ejemplo: limpieza, fertilización, procesos industriales).
+              p La etapa en la que el producto cumple la función para la cual fue creado (ejemplo: limpieza, fertilización, procesos industriales).
             .tarjeta.color-acento-botones--borde.p-4(titulo="Eliminación")
               p Fase final donde se desecha el producto o sus residuos.
 
@@ -524,28 +524,28 @@ export default {
       {
         titulo: 'Átomo',
         texto:
-          'es la unidad básica de la materia. Toda la materia está formada por átomos que, al unirse mediante enlaces químicos, forman moléculas o compuestos con propiedades específicas.',
+          'Es la unidad básica de la materia. Toda la materia está formada por átomos que, al unirse mediante enlaces químicos, forman moléculas o compuestos con propiedades específicas.',
         imagen: require('@/assets/curso/Tema1/sli1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Moléculas químicas',
         texto:
-          'son las unidades más pequeñas de una sustancia que conservan sus propiedades físicas y químicas, formadas por dos o más átomos unidos mediante enlaces covalentes.',
+          'Son las unidades más pequeñas de una sustancia que conservan sus propiedades físicas y químicas, formadas por dos o más átomos unidos mediante enlaces covalentes.',
         imagen: require('@/assets/curso/Tema1/sli2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Grupos funcionales',
         texto:
-          'combinación específica de átomos dentro de una molécula, que confiere propiedades físicas y químicas a los compuestos que los contienen.',
+          'Combinación específica de átomos dentro de una molécula, que confiere propiedades físicas y químicas a los compuestos que los contienen.',
         imagen: require('@/assets/curso/Tema1/sli3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Producto químico',
         texto:
-          'está formado por una sustancia o una mezcla de sustancias; posee características funcionales determinadas por los componentes que lo constituyen y por sus interacciones.',
+          'Está formado por una sustancia o una mezcla de sustancias; posee características funcionales determinadas por los componentes que lo constituyen y por sus interacciones.',
         imagen: require('@/assets/curso/Tema1/sli4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

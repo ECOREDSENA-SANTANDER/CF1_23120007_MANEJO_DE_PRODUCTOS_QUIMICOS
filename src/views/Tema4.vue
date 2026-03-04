@@ -21,7 +21,7 @@
                 figure
                   img(src='@/assets/curso/Tema4/001.svg', alt='Texto que describa la imagen')          
             h3.text-center Buenas Prácticas de Manufactura (BPM)
-            p son un conjunto de principios y procedimientos básicos aplicables a la producción (alimentos, fármacos, químicos) con el objetivo de garantizar que los productos se fabriquen en condiciones sanitarias adecuadas, disminuyendo los riesgos inherentes a la producción y distribución. Este sistema controla aspectos críticos como la infraestructura, los equipos, los procedimientos operativos y la seguridad industrial.
+            p Son un conjunto de principios y procedimientos básicos aplicables a la producción (alimentos, fármacos, químicos) con el objetivo de garantizar que los productos se fabriquen en condiciones sanitarias adecuadas, disminuyendo los riesgos inherentes a la producción y distribución. Este sistema controla aspectos críticos como la infraestructura, los equipos, los procedimientos operativos y la seguridad industrial.
           
           .col-md.tarjeta.color-secundario.p-5
             .row.justify-content-center.mb-4
@@ -29,7 +29,7 @@
                 figure
                   img(src='@/assets/curso/Tema4/002.svg', alt='Texto que describa la imagen')          
             h2.text-center Buenas Prácticas de Laboratorio (BPL)
-            p en el entorno de análisis y ensayo, las BPL establecen lineamientos de trabajo seguro para garantizar la validez y confiabilidad de los resultados y, simultáneamente, la integridad de los trabajadores y el medio ambiente. Se centran en la organización, las instalaciones, el manejo de reactivos y la seguridad del personal.
+            p En el entorno de análisis y ensayo, las BPL establecen lineamientos de trabajo seguro para garantizar la validez y confiabilidad de los resultados y, simultáneamente, la integridad de los trabajadores y el medio ambiente. Se centran en la organización, las instalaciones, el manejo de reactivos y la seguridad del personal.
           
        
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -53,7 +53,7 @@
                   img(src="@/assets/curso/Tema4/1.svg", alt="alt").img100
               .col
                 h5 Eliminación o sustitución
-                p suprimir el peligro o reemplazar la sustancia por una menos peligrosa (medida más efectiva).
+                p Suprimir el peligro o reemplazar la sustancia por una menos peligrosa (medida más efectiva).
           
           .crd.crd--avatarHorizontal.py-2
             .row.align-items-center
@@ -62,7 +62,7 @@
                   img(src="@/assets/curso/Tema4/2.svg", alt="alt").img100
               .col
                 h5 Controles de ingeniería 
-                p aislar el peligro mediante infraestructura, como el uso de cabinas de extracción, encerramientos o sistemas de ventilación.
+                p Aislar el peligro mediante infraestructura, como el uso de cabinas de extracción, encerramientos o sistemas de ventilación.
           
           .crd.otro.py-2
             .row.align-items-center
@@ -71,7 +71,7 @@
                   img(src="@/assets/curso/Tema4/2.svg", alt="alt").img100
               .col
                 h5 Controles administrativos
-                p implementar procedimientos documentados, señalización, rotación de personal y normas de conducta (ejemplo: prohibición de comer, fumar o usar joyas en áreas de trabajo).
+                p Implementar procedimientos documentados, señalización, rotación de personal y normas de conducta (ejemplo: prohibición de comer, fumar o usar joyas en áreas de trabajo).
           
           .crd.crd--avatarHorizontal.crd--last.py-2
             .row.align-items-center
@@ -80,7 +80,7 @@
                   img(src="@/assets/curso/Tema4/3.svg", alt="alt").img100
               .col
                 h5 Elementos de Protección Personal (EPP)
-                p se utilizan como la última barrera de protección cuando los riesgos no pueden eliminarse o controlarse totalmente por los medios anteriores.
+                p Se utilizan como la última barrera de protección cuando los riesgos no pueden eliminarse o controlarse totalmente por los medios anteriores.
     separador
     #t_4_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 4.1. Toxicología y efectos
@@ -98,7 +98,7 @@
           .col-lg-5.col-10
             figure
               img.mb-4(src='@/assets/curso/Tema4/img02.png', alt='')
-            p.bg9.p-4 es considerada la vía de penetración más importante y crítica en el ambiente laboral, debido a que la superficie de absorción pulmonar es extensa y la sustancia ingresa rápidamente al torrente sanguíneo.
+            p.bg9.p-4 Es considerada la vía de penetración más importante y crítica en el ambiente laboral, debido a que la superficie de absorción pulmonar es extensa y la sustancia ingresa rápidamente al torrente sanguíneo.
           .col-lg-6.mb-4.mb-md-0
             ol.lista-ol--cuadro
               li
@@ -135,7 +135,7 @@
               img.mb-4(src='@/assets/curso/Tema4/img03.png', alt='')
             
           .col-lg-6.mb-4.mb-md-0
-            p.bg9.p-4 también llamada vía oral corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
+            p.bg9.p-4 También llamada vía oral corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
             ol.lista-ol--cuadro
               li.mb-3
                 .lista-ol--cuadro__vineta
@@ -155,7 +155,7 @@
           .col-lg-5.col-10
             figure
               img.mb-4(src='@/assets/curso/Tema4/img04.png', alt='')
-            p.bg9.p-4 aunque la piel es una barrera protectora natural, muchas sustancias químicas tienen la capacidad de atravesarla e incorporarse a la sangre para distribuirse por todo el cuerpo.
+            p.bg9.p-4 Aunque la piel es una barrera protectora natural, muchas sustancias químicas tienen la capacidad de atravesarla e incorporarse a la sangre para distribuirse por todo el cuerpo.
           .col-lg-6.mb-4.mb-md-0
             ol.lista-ol--cuadro
               li
@@ -214,9 +214,9 @@
 
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-md-11.col-lg-12.col-12
-        h3.solidos-badge.text-white · Clasificación de los efectos toxicológicos
+        h3.solidos-badge.text-white · Clasificación fisiológica específica
 
-    p.mb-3 Una vez la sustancia ingresa, los efectos en la salud no son uniformes
+    p.mb-3 Los documentos técnicos categorizan las sustancias según cómo atacan al organismo:
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-6.col-11.mb-4.col-md-9
         img(src='@/assets/curso/Tema4/img07.png', alt='')
@@ -224,11 +224,11 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Irritantes")
             .col-md-12.mb-4.mb-md-0
-              p.text-small inflamación de mucosas (piel, ojos, nariz). Tienen un efecto de advertencia (olor, ardor).
+              p.text-small Inflamación de mucosas (piel, ojos, nariz). Tienen un efecto de advertencia (olor, ardor).
           .row(numero="2" titulo="Asfixiantes")
             .col-md-12.mb-4.mb-md-0
-              p.text-small impiden la llegada de oxígeno a las células. 
-              ul.lista-ul--color
+              p.text-small Impiden la llegada de oxígeno a las células. 
+              ul.lista-ul--color.text-small
                 li.mb-0.d-flex
                   i.fas.fa-solid.fa-flask
                   p.mb-3 Simples: desplazan el oxígeno del aire (ejemplo: dióxido de carbono y nitrógeno).
@@ -237,14 +237,14 @@
                   p.mb-3 Químicos: bloquean la capacidad de la sangre para transportar oxígeno (ejemplo: monóxido de carbono, cianuro).
           .row(numero="3" titulo="Narcóticos y anestésicos")
             .col-md-12.mb-4.mb-md-0
-              p.text-small actúan sobre el sistema nervioso central causando somnolencia, mareo y pérdida de coordinación (ejemplo: tolueno, xileno, acetona).
+              p.text-small Actúan sobre el sistema nervioso central causando somnolencia, mareo y pérdida de coordinación (ejemplo: tolueno, xileno, acetona).
 
           .row(numero="4" titulo="Neumoconióticos")
             .col-md-12.mb-4.mb-md-0
-              p.text-small partículas sólidas que se depositan en los pulmones causando fibrosis y endurecimiento del tejido (ejemplo: sílice, asbesto, polvo de carbón).
+              p.text-small Partículas sólidas que se depositan en los pulmones causando fibrosis y endurecimiento del tejido (ejemplo: sílice, asbesto, polvo de carbón).
           .row(numero="5" titulo="Carcinógenos, mutágenos y teratógenos")
             .col-md-12.mb-4.mb-md-0
-              p.text-small sustancias capaces de inducir cáncer, provocar alteraciones genéticas hereditarias o generar malformaciones en el feto, respectivamente.
+              p.text-small Sustancias capaces de inducir cáncer, provocar alteraciones genéticas hereditarias o generar malformaciones en el feto, respectivamente.
 
     separador
     #t_4_2.titulo-segundo.mb-5(data-aos="zoom-in-left")

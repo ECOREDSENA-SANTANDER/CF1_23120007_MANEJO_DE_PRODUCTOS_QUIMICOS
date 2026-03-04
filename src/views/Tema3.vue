@@ -44,17 +44,17 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
           .row.justify-content-center.align-items-center(titulo="Bloque de identificación (secciones 1-3) ")
             .col-md-12.mb-4.mb-md-0.col-lg-12
-              p identificación del producto (sustancia o mezcla) y de la compañía, identificación de peligros (SGA) y composición de los ingredientes.
+              p Identificación del producto (sustancia o mezcla) y de la compañía, identificación de peligros (SGA) y composición de los ingredientes.
     
           .row.justify-content-center.align-items-center(titulo="Bloque de emergencias (secciones 4-6) ")
             .col-md-12.mb-4.mb-md-0.col-lg-12
-              p medidas vitales de primeros auxilios, control de incendios y respuesta ante vertidos accidentales.
+              p Medidas vitales de primeros auxilios, control de incendios y respuesta ante vertidos accidentales.
           .row.justify-content-center.align-items-center(titulo="Bloque de manejo y precaución (secciones 7-10) ")
             .col-md-12.mb-4.mb-md-0.col-lg-12
-              p manipulación, almacenamiento, medidas de lucha contra incendios y vertido accidental, controles de exposición (protección individual) y propiedades físicas y químicas (estabilidad y reactividad).
+              p Manipulación, almacenamiento, medidas de lucha contra incendios y vertido accidental, controles de exposición (protección individual) y propiedades físicas y químicas (estabilidad y reactividad).
           .row.justify-content-center.align-items-center(titulo="Bloque complementario (secciones 11-16) ")
             .col-md-12.mb-4.mb-md-0.col-lg-12
-              p información toxicológica, ecológica (ecotox), disposición final, transporte y regulación.
+              p Información toxicológica, ecológica (ecotox), disposición final, transporte y regulación.
       .col-lg-4.col-8.mb-4.col-md-6
         img(src="@/assets/curso/Tema3/img04.png")
 
@@ -69,7 +69,7 @@
       .col-lg-3.col-8.mb-3.col-md-6
         img(src="@/assets/curso/Tema3/img05.png")
       .col-lg-6
-        p La gestión técnica del riesgo químico se sustenta mediante una estructura documental estandarizada, donde la Hoja de Datos de Seguridad (HDS) actúa como el pilar preventivo, suministrando información técnica detallada para el manejo seguro de una sustancia química. Sin embargo, para garantizar la seguridad en entornos operativos y de transporte, esta estructura se complementa con las tarjetas de emergencia, establecidas en la NTC 4532, y que priorizan la respuesta inmediata ante incidentes críticos. 
+        p La gestión técnica del riesgo químico se sustenta mediante una estructura documental estandarizada, donde la Hoja de Datos de Seguridad (HDS) actúa como el pilar preventivo, suministrando información técnica detallada para el manejo seguro de una sustancia química. Sin embargo, para garantizar la seguridad en entornos operativos y de transporte, esta estructura se complementa con las #[b tarjetas de emergencia], establecidas en la NTC 4532, y que priorizan la respuesta inmediata ante incidentes críticos. 
         p La tarjeta de emergencia es un documento corto y de fácil acceso, con información clara y concisa, diseñado para una lectura rápida en situaciones críticas. Su elaboración es de cumplimiento obligatorio bajo el Decreto 1609 de 2002 para el transporte de mercancías peligrosas. A diferencia de la HDS detallada, esta tarjeta resume la identificación del peligro y los controles inmediatos para proteger la vida y el medio ambiente en la "zona caliente" de un incidente.
       .col-lg-3.col-8.col-md-6
         img(src="@/assets/curso/Tema3/img06.svg")
@@ -78,7 +78,7 @@
       .col-md-11.col-lg-12.col-12
         h3.solidos-badge.text-white · Obligatoriedad
 
-    p según el Decreto 1609 de 2002, la elaboración de este documento siguiendo la Norma Técnica NTC 4532 es de obligatorio cumplimiento para el transporte de mercancías peligrosas en Colombia.
+    p Según el Decreto 1609 de 2002, la elaboración de este documento siguiendo la Norma Técnica NTC 4532 es de obligatorio cumplimiento para el transporte de mercancías peligrosas en Colombia.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         img(src="@/assets/curso/Tema3/img07.png")
@@ -87,13 +87,13 @@
         h3.solidos-badge.text-white · Función
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p.mb-4 brindar datos inmediatos a los primeros respondientes (conductores, bomberos, brigadistas) sobre cómo identificar el peligro, qué hacer y qué no hacer en los primeros minutos críticos. la norma exige que la información se estructure de manera lógica para facilitar la toma de decisiones. 
+        p.mb-4 Brindar datos inmediatos a los primeros respondientes (conductores, bomberos, brigadistas) sobre cómo identificar el peligro, qué hacer y qué no hacer en los primeros minutos críticos. la norma exige que la información se estructure de manera lógica para facilitar la toma de decisiones. 
         img(src="@/assets/curso/Tema3/img08.png")
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-md-11.col-lg-12.col-12
         h3.solidos-badge.text-white · Estructura
 
-    p.mb-3 los puntos clave que incluye la tarjeta de emergencia se desglosan así:
+    p.mb-3 Los puntos clave que incluye la tarjeta de emergencia se desglosan así:
 
     .fondot3.p-5(data-aos="zoom-in-left")
       .tarjeta.bg14.p-4
@@ -103,49 +103,51 @@
               img(src='@/assets/curso/Tema3/sli1.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Identificación del producto 
-              p nombre comercial, químico y el número de Naciones Unidas (UN) para asegurar que se está consultando la tarjeta correcta.
+              p Nombre comercial, químico y el número de Naciones Unidas (UN) para asegurar que se está consultando la tarjeta correcta.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli2.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Identificación de peligros
-              p peligros inminentes, como riesgo de incendio, explosión, toxicidad aguda o corrosividad. utiliza la clasificación y el etiquetado del sistema (como los rombos de la ONU o pictogramas del SGA) para alertar visualmente sobre la severidad.
+              p Peligros inminentes, como riesgo de incendio, explosión, toxicidad aguda o corrosividad. utiliza la clasificación y el etiquetado del sistema (como los rombos de la ONU o pictogramas del SGA) para alertar visualmente sobre la severidad.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli3.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Controles de exposición y protección personal
-              p detalla el equipo mínimo requerido para acercarse al incidente de forma segura, como el tipo de guantes, traje de protección y protección respiratoria específica.
+              p Detalla el equipo mínimo requerido para acercarse al incidente de forma segura, como el tipo de guantes, traje de protección y protección respiratoria específica.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli4.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Estabilidad y reactividad
-              p advierte si el producto puede reaccionar violentamente con el agua, el aire u otras sustancias cercanas, generando gases tóxicos o explosiones.
+              p Advierte si el producto puede reaccionar violentamente con el agua, el aire u otras sustancias cercanas, generando gases tóxicos o explosiones.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli5.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Medidas de primeros auxilios
-              p instrucciones básicas de estabilización para víctimas afectadas por inhalación, ingestión o contacto dérmico / ocular (ejemplo: no inducir el vómito, lavar con abundante agua) mientras llega ayuda médica especializada.
+              p Instrucciones básicas de estabilización para víctimas afectadas por inhalación, ingestión o contacto dérmico / ocular (ejemplo: no inducir el vómito, lavar con abundante agua) mientras llega ayuda médica especializada.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli6.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Medidas contra incendios
-              p especifica qué agentes extintores usar (ejemplo: polvo químico, CO2) y cuáles están prohibidos (ejemplo: no usar agua a chorro, si el químico reacciona con ella).
+              p especifica qué agentes extintores usar (ejemplo: polvo químico, CO
+                sub 2
+                | ) y cuáles están prohibidos (ejemplo: no usar agua a chorro, si el químico reacciona con ella).
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
               img(src='@/assets/curso/Tema3/sli7.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Medidas en caso de vertido accidental (derrames)
-              p instrucciones para contener la fuga, materiales absorbentes recomendados (inertes) y distancias de aislamiento inicial para proteger a la comunidad y al medio ambiente.
+              p Instrucciones para contener la fuga, materiales absorbentes recomendados (inertes) y distancias de aislamiento inicial para proteger a la comunidad y al medio ambiente.
 
     separador
     #t_3_4.titulo-segundo.mb-5(data-aos="zoom-in-left")

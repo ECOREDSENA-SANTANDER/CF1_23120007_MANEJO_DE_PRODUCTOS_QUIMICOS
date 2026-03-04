@@ -21,8 +21,8 @@ export default {
       introduccion:
         '<b>Objetivo:</b> evaluar el nivel de comprensión de los conceptos fundamentales asociados al manejo inteligente de productos químicos y la implementación de estrategias para la prevención de riesgos laborales y ambientales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
