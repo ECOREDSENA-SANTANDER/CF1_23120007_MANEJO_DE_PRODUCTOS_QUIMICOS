@@ -425,7 +425,7 @@
         .col-lg-9
           TabsA.color-acento-botones
             .tarjeta.color-acento-botones--borde.p-4(titulo="Creación, diseño y desarrollo")
-              p Salon las etapas iniciales donde se concibe el producto.
+              p Son las etapas iniciales donde se concibe el producto.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Fabricación")
               p En esta etapa se produce la sustancia química utilizando diversas materias primas, las cuales pueden ser materiales naturales o sustancias recicladas provenientes de otros procesos.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento")

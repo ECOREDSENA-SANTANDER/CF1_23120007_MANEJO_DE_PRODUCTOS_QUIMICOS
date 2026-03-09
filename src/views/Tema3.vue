@@ -110,7 +110,7 @@
               img(src='@/assets/curso/Tema3/sli2.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Identificación de peligros
-              p Peligros inminentes, como riesgo de incendio, explosión, toxicidad aguda o corrosividad. utiliza la clasificación y el etiquetado del sistema (como los rombos de la ONU o pictogramas del SGA) para alertar visualmente sobre la severidad.
+              p Peligros inminentes, como riesgo de incendio, explosión, toxicidad aguda o corrosividad. Utiliza la clasificación y el etiquetado del sistema (como los rombos de la ONU o pictogramas del SGA) para alertar visualmente sobre la severidad.
           
           .row.justify-content-center(titulo="")
             .col-lg-5.col-md-8.mb-3
@@ -138,7 +138,7 @@
               img(src='@/assets/curso/Tema3/sli6.png', alt='')
             .col-lg-5.mb-4.mb-md-0
               h5 Medidas contra incendios
-              p especifica qué agentes extintores usar (ejemplo: polvo químico, CO
+              p Especifica qué agentes extintores usar (ejemplo: polvo químico, CO
                 sub 2
                 | ) y cuáles están prohibidos (ejemplo: no usar agua a chorro, si el químico reacciona con ella).
           

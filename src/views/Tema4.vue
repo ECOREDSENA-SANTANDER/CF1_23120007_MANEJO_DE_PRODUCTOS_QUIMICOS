@@ -135,7 +135,7 @@
               img.mb-4(src='@/assets/curso/Tema4/img03.png', alt='')
             
           .col-lg-6.mb-4.mb-md-0
-            p.bg9.p-4 También llamada vía oral corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
+            p.bg9.p-4 También llamada vía oral corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. Esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
             ol.lista-ol--cuadro
               li.mb-3
                 .lista-ol--cuadro__vineta
