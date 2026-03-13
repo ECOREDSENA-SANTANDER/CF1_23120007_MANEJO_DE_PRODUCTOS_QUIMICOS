@@ -164,7 +164,7 @@
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-acento-botones.mb-4.p-5.no-cursiva(
             texto="Pódcast: Sistema Globalmente Armonizado (SGA) y la importancia del etiquetado químico"
-            :audio="require('@/assets/curso/Tema2/prueba.mp3')"
+            :audio="require('@/assets/curso/Tema2/podcast.mp3')"
         )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
