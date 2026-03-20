@@ -87,7 +87,7 @@
         h3.solidos-badge.text-white · Función
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p.mb-4 Brindar datos inmediatos a los primeros respondientes (conductores, bomberos, brigadistas) sobre cómo identificar el peligro, qué hacer y qué no hacer en los primeros minutos críticos. la norma exige que la información se estructure de manera lógica para facilitar la toma de decisiones. 
+        p.mb-4 Brindar datos inmediatos a los primeros respondientes (conductores, bomberos, brigadistas) sobre cómo identificar el peligro, qué hacer y qué no hacer en los primeros minutos críticos. La norma exige que la información se estructure de manera lógica para facilitar la toma de decisiones. 
         img(src="@/assets/curso/Tema3/img08.png")
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-md-11.col-lg-12.col-12

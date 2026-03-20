@@ -180,7 +180,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_23120007_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -374,22 +374,12 @@ export default {
       autores: [
         {
           nombre: 'Felipe Correa Mahecha',
-          cargo: 'Responsable',
+          cargo: 'Experto técnico',
           centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
         },
         {
           nombre: 'Nathaly Moreno Betancourt',
-          cargo: 'Instructor',
-          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
-        },
-        {
-          nombre: 'Cesar Pedraza',
-          cargo: 'Metodólogo',
-          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
-        },
-        {
-          nombre: 'Fabio Hernández Rodríguez',
-          cargo: 'Subdirector de Centro',
+          cargo: 'Instructora virtual',
           centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
         },
         {
@@ -428,7 +418,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

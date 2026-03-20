@@ -212,7 +212,7 @@
           tr
             td.text-left Nivel D
             td.text-left
-              b Nula / Básica. 
+              b Nula / básica. 
               | No requiere respirador.
             td.text-left
               b Mínima. 
