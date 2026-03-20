@@ -419,7 +419,7 @@ export default {
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
