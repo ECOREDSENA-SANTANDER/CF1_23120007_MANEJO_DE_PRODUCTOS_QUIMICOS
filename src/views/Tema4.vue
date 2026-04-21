@@ -135,12 +135,12 @@
               img.mb-4(src='@/assets/curso/Tema4/img03.png', alt='')
             
           .col-lg-6.mb-4.mb-md-0
-            p.bg9.p-4 También llamada vía oral corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. Esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
+            p.bg9.p-4 También llamada vía oral, corresponde a la entrada de sustancias químicas al organismo a través de la boca, pasando por el sistema gastrointestinal. Esta vía es frecuente en entornos laborales cuando hay manos contaminadas, alimentos expuestos, envases sin rotular o prácticas inadecuadas de higiene.
             ol.lista-ol--cuadro
               li.mb-3
                 .lista-ol--cuadro__vineta
                   span a 
-                | #[b Mecanismo de ingreso:] la sustancia entra por la boca (accidental o intencional) y atraviesa el esófago, el estómago y el intestino delgado. En el intestino ocurre la principal absorción ya que está altamente vascularizado. 
+                | #[b Mecanismo de ingreso:] la sustancia entra por la boca (accidental o intencional) y atraviesa el esófago, el estómago y el intestino delgado. En el intestino ocurre la principal absorción, ya que está altamente vascularizado. 
               li.mb-3
                 .lista-ol--cuadro__vineta
                   span b
@@ -296,7 +296,7 @@
                 div Fumar: prohibido por ser fuente de ignición cerca de vapores inflamables.
               .d-flex
                 .me-1 •
-                div Joyas y accesorios: prohibido usar anillos o pulseras ya que pueden atrapar sustancias, romper guantes o causar enganches mecánicos.
+                div Joyas y accesorios: prohibido usar anillos o pulseras, ya que pueden atrapar sustancias, romper guantes o causar enganches mecánicos.
               .d-flex
                 .me-1 •
                 div Trabajo solitario: no permitir trabajar solo en zonas de riesgo químico.

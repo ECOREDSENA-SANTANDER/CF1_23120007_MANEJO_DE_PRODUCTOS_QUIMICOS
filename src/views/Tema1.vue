@@ -107,7 +107,7 @@
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
         .row.justify-content-center.ali(titulo="Polvos")
           .col-md-6.mb-4.mb-md-0
-            p Se forman por suspensión de partículas sólidas en el aire; estas pueden sedimentar bajo la influencia de la gravedad. Dependiendo de la composición y la respuesta del organismo pueden ser inertes, tóxicas (con diversos efectos) o alergénicas. El tamaño de las partículas es un factor determinante: las mayores de 10 micras (µm) generalmente quedan atrapadas en las vías aéreas superiores, las menores de 10 micras pueden llegar a las vías respiratorias profundas, siendo las más peligrosas las menores de 5 micras, ya que pueden alcanzar los alvéolos pulmonares. 
+            p Se forman por suspensión de partículas sólidas en el aire; estas pueden sedimentar bajo la influencia de la gravedad. Dependiendo de la composición y la respuesta del organismo, pueden ser inertes, tóxicas (con diversos efectos) o alergénicas. El tamaño de las partículas es un factor determinante: las mayores de 10 micras (µm) generalmente quedan atrapadas en las vías aéreas superiores, las menores de 10 micras pueden llegar a las vías respiratorias profundas, siendo las más peligrosas las menores de 5 micras, ya que pueden alcanzar los alvéolos pulmonares. 
             h5 Propiedades biológicas:
             ul.lista-ul--color
               li.mb-0.d-flex
